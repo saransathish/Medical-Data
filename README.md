@@ -1,5 +1,3 @@
-# PubMedQA
-
 ## Download
 PQA-L is already in `./data/`
 
